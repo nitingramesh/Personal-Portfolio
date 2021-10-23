@@ -38,6 +38,7 @@ a {
 }
 
 .navbar {
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   position:unset;
   right: 0;
   padding: 0 0 4.5rem;
@@ -74,16 +75,19 @@ a {
   transform: translate(-50%, -50%);
 }
 .main-text {
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   width: 500px;
 }
 .main-text h1 {
-  font-style: ;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-style:oblique ;
   font-size: 3.5rem;
   color: gold;
   margin: 0px 0px 10px 0px;
   line-height: 60px;
 }
 .main-text p {
+ 
   color:gold;
 }
 
