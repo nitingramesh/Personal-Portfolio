@@ -29,7 +29,7 @@ a {
 
 /* Navigation Bar Section */
 .name {
-  position: fixed;
+  position:relative;
   left: 0;
   margin: 15px;
   padding: 30px;
@@ -39,7 +39,7 @@ a {
 
 .navbar {
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  position:unset;
+  position:relative;
   right: 0;
   padding: 0 0 4.5rem;
   margin: 15px;
